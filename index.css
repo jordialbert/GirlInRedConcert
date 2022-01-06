@@ -19,10 +19,21 @@ section {
     background: linear-gradient(180deg, #DE2039 -20%, #000000 110%);
     color: white;
     font-family: 'Nanum Pen Script';
-    font-size: 40px;
+    font-size: 35px;
+    gap: 30px;
 }
 
 section h1 {
     margin: 10px;
+    text-align: center;
+}
+
+section button {
+    padding: 20px 50px;
+    border-radius: 5px;
+    border: 2px solid #FFF;
+    background: transparent;
+    color: white;
+    font-size: 20px;
     text-align: center;
 }
